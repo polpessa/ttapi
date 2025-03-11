@@ -1,0 +1,68 @@
+{
+    "extra": {
+        "fatal_item_ids": [],
+        "logid": "202503111522546528BEC23F2547375F21",
+        "now": 1741706574000
+    },
+    "log_pb": {
+        "impr_id": "202503111522546528BEC23F2547375F21"
+    },
+    "musicInfo": {
+        "artist": {
+            "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3ad82c5d93df3eb235dee910cd209b55~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=10399&refresh_token=f8345348&x-expires=1741878000&x-signature=X8D2L1GMcJZ34R%2FtPcmigwoEMu0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=no1a",
+            "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3ad82c5d93df3eb235dee910cd209b55~tplv-tiktokx-cropcenter:720:720.jpeg?dr=10399&refresh_token=cada2605&x-expires=1741878000&x-signature=HQoA0jAZi7s1ud7MwCUh4kmIYT4%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=no1a",
+            "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3ad82c5d93df3eb235dee910cd209b55~tplv-tiktokx-cropcenter:100:100.jpeg?dr=10399&refresh_token=fc035e38&x-expires=1741878000&x-signature=NiCh%2BEiH9cu6a9s8liKU3QX6KuM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=no1a",
+            "ftc": false,
+            "id": "6778951352212341765",
+            "nickname": "Goo Goo Dolls",
+            "openFavorite": false,
+            "privateAccount": false,
+            "relation": 0,
+            "secUid": "MS4wLjABAAAACgRRS8q9slskN8uCis20lEEFPOcKCrS83l3MUIFZfSjUPSZr83KSP1UzbXHF3N4y",
+            "secret": false,
+            "signature": "SUMMER ANTHEM TOUR 2025 US dates on sale now at:",
+            "uniqueId": "googoodollsofficial"
+        },
+        "artists": [
+            {
+                "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3ad82c5d93df3eb235dee910cd209b55~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=10399&refresh_token=f8345348&x-expires=1741878000&x-signature=X8D2L1GMcJZ34R%2FtPcmigwoEMu0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=no1a",
+                "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3ad82c5d93df3eb235dee910cd209b55~tplv-tiktokx-cropcenter:720:720.jpeg?dr=10399&refresh_token=cada2605&x-expires=1741878000&x-signature=HQoA0jAZi7s1ud7MwCUh4kmIYT4%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=no1a",
+                "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3ad82c5d93df3eb235dee910cd209b55~tplv-tiktokx-cropcenter:100:100.jpeg?dr=10399&refresh_token=fc035e38&x-expires=1741878000&x-signature=NiCh%2BEiH9cu6a9s8liKU3QX6KuM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=no1a",
+                "ftc": false,
+                "id": "6778951352212341765",
+                "nickname": "Goo Goo Dolls",
+                "openFavorite": false,
+                "privateAccount": false,
+                "relation": 0,
+                "secUid": "MS4wLjABAAAACgRRS8q9slskN8uCis20lEEFPOcKCrS83l3MUIFZfSjUPSZr83KSP1UzbXHF3N4y",
+                "secret": false,
+                "signature": "SUMMER ANTHEM TOUR 2025 US dates on sale now at:",
+                "uniqueId": "googoodollsofficial"
+            }
+        ],
+        "music": {
+            "album": "Dizzy up the Girl",
+            "authorName": "Goo Goo Dolls",
+            "coverLarge": "https://p77-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/847d7b5309954705a490fdc89e28a0f5.jpeg",
+            "coverMedium": "https://p77-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/847d7b5309954705a490fdc89e28a0f5.jpeg",
+            "coverThumb": "https://p77-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/847d7b5309954705a490fdc89e28a0f5.jpeg",
+            "duration": 30,
+            "id": "10104523",
+            "isCopyrighted": true,
+            "original": false,
+            "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/fb09269b8642415bbb509c3a437442c9",
+            "private": false,
+            "title": "Black Balloon"
+        },
+        "stats": {
+            "videoCount": 164
+        }
+    },
+    "shareMeta": {
+        "desc": "164 videos - Watch awesome short videos created with \u266c Black Balloon",
+        "title": "%!s(*wrapper.UserWrapper=<nil>) | \u266c Black Balloon | on TikTok"
+    },
+    "statusCode": 0,
+    "status_code": 0,
+    "status_msg": ""
+}

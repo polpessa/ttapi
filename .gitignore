@@ -30,3 +30,7 @@ src
 .env
 /.idea/
 /TikTok-Api.iml
+sound_data/*    
+.sound_info*
+sound_ids.csv
+sound.json

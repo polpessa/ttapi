@@ -1,0 +1,18 @@
+2025-03-11 18:08:47,326 - INFO - Processing sound 1/5: 6812253843712346882
+2025-03-11 18:08:47,326 - INFO - Initializing API and creating session...
+2025-03-11 18:09:00,959 - INFO - API initialization completed in 13.63 seconds
+2025-03-11 18:09:01,225 - INFO - Retrieved sound info for 6812253843712346882 in 13.90 seconds
+2025-03-11 18:09:01,226 - INFO - Processing sound 2/5: 6770603781966039810
+2025-03-11 18:09:01,994 - INFO - Retrieved sound info for 6770603781966039810 in 0.77 seconds
+2025-03-11 18:09:01,995 - INFO - Processing sound 3/5: 7446022050302675728
+2025-03-11 18:09:02,347 - INFO - Retrieved sound info for 7446022050302675728 in 0.35 seconds
+2025-03-11 18:09:02,348 - INFO - Processing sound 4/5: 7450943781185538821
+2025-03-11 18:09:02,717 - INFO - Retrieved sound info for 7450943781185538821 in 0.37 seconds
+2025-03-11 18:09:02,718 - INFO - Processing sound 5/5: 7477555291099122449
+2025-03-11 18:09:03,043 - INFO - Retrieved sound info for 7477555291099122449 in 0.32 seconds
+2025-03-11 18:09:03,043 - INFO - 
+Processed 5 sounds in 15.72 seconds
+2025-03-11 18:09:03,043 - INFO - Average time per sound: 3.14 seconds
+2025-03-11 18:09:03,043 - INFO - Success rate: 5/5 (100.0%)
+2025-03-11 18:09:03,043 - INFO - Cleaning up resources...
+2025-03-11 18:09:03,170 - INFO - Cleanup completed
